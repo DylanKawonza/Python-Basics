@@ -34,6 +34,9 @@ This allowed me to create interactive programs such as:
 
 It taught me how programs communicate with people.
 
+## Using these functions I made a security code that emulates an access code to a door in a building 
+<img width="1834" height="462" alt="image" src="https://github.com/user-attachments/assets/947bf604-a6fb-467f-bc39-2900998c1f23" />
+
 ---
 
 ### 🔁 Loops (for & while)
@@ -91,6 +94,10 @@ I completed a wide range of tasks, including:
 - List operations (max, min, sum of positives)  
 
 These exercises helped me practise writing clean, simple logic.
+
+## I was tasked with making a pence calculator during the bootcamp simple but effective :)
+<img width="1778" height="203" alt="image" src="https://github.com/user-attachments/assets/6d188d28-f934-4cad-a747-49dd9d9e20bd" />
+
 
 ---
 
